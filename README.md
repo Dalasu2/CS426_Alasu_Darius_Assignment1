@@ -8,12 +8,13 @@ ___
 ### Goal:
 The goal of this game is to run around and score points (for both home and guest) by kicking soccer balls into the goals.
 ### Inputs:
-W/UpArrow - Move forward
-S/DownArrow - Move backward
-Shift + W/UpArrow/S/DownArrow - Sprint
-A/LeftArrow - Rotate counter-clockwise
-D/RightArrow - Rotate clockwise
-Space - Kick
+W/UpArrow - Move forward\
+S/DownArrow - Move backward\
+Shift + W/UpArrow/S/DownArrow - Sprint\
+A/LeftArrow - Rotate counter-clockwise\
+D/RightArrow - Rotate clockwise\
+Space - Kick\
+Esc - Quit Game
 ___
 ## ➤ Installation Guide
 ### Output Folder
