@@ -8,7 +8,7 @@ This project follows the theme "What Home Means to Me" by creating an indoor soc
 [This is a link to the youtube video](https://youtu.be/zDvQv8C56Ss)
 
 ## Credits:
-[Scoreboard Model](https://sketchfab.com/3d-models/low-poly-scoreboard-8101bb9f568e4bf2802b51e9749de21e)
+[Scoreboard Model](https://sketchfab.com/3d-models/low-poly-scoreboard-8101bb9f568e4bf2802b51e9749de21e)\n
 [Soccer Ball](https://assetstore.unity.com/packages/3d/low-polygon-soccer-ball-84382)
 [Soccer player](https://clara.io/view/59a3fbf4-286a-492a-a341-ca6edccd0e7c)
 [Soccer Goal](https://www.cgtrader.com/free-3d-models/sports/game/free-soccer-pitch)
