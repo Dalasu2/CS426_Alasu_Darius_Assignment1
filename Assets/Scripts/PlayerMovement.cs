@@ -29,6 +29,11 @@ public class PlayerMovement : MonoBehaviour {
         isMoving = false;
         float speed = 0f;
 
+        // Exit Game
+        if(Input.GetKey(KeyCode.Escape)) {
+            Application.Quit();
+        }
+
         // Character movement
         if(Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow)) { // Moving Forward
             isRunning = Input.GetKey(KeyCode.LeftShift); // See if shift is pressed meaning character should run
