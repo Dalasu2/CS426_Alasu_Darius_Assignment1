@@ -26,7 +26,7 @@ ___
 [This is a link to the youtube video](https://youtu.be/zDvQv8C56Ss)
 ___
 ## ➤ Video Comments
-Qasim Mir
+Qasim Mir\
 Emily Kamleh
 ___
 ## ➤ Credits:
