@@ -14,6 +14,8 @@ Shift + W/UpArrow/S/DownArrow - Sprint\
 A/LeftArrow - Rotate counter-clockwise\
 D/RightArrow - Rotate clockwise\
 Space - Kick\
+Left Mouse Down - Pick up ball\
+Left Mouse Up - Drop ball\
 Esc - Quit Game
 ___
 ## ➤ Installation Guide
