@@ -25,6 +25,10 @@ ___
 ## ➤ Video Link
 [This is a link to the youtube video](https://youtu.be/zDvQv8C56Ss)
 ___
+## ➤ Video Comments
+Qasim Mir\
+Emily Kamleh
+___
 ## ➤ Credits:
 [Scoreboard Model](https://sketchfab.com/3d-models/low-poly-scoreboard-8101bb9f568e4bf2802b51e9749de21e)\
 [Soccer Ball](https://assetstore.unity.com/packages/3d/low-polygon-soccer-ball-84382)\
