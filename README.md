@@ -14,6 +14,7 @@ Shift + W/UpArrow/S/DownArrow - Sprint\
 A/LeftArrow - Rotate counter-clockwise\
 D/RightArrow - Rotate clockwise\
 Space - Kick\
+V - Spawn and throw soccer ball forward\
 Left Mouse Down - Pick up ball\
 Left Mouse Up - Drop ball\
 Esc - Quit Game
