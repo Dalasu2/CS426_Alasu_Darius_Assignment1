@@ -12,10 +12,12 @@ public class PlayerMovement : MonoBehaviour {
     private bool isMoving;
     private float walkingSpeed = 1f;
     private float runningMult = 3f;
+    [SerializeField] GameObject ball;
 
     Rigidbody rb;
     Transform t;
     Animator mAnimator;
+    public Transform body;
     // Start is called before the first frame update
     void Start() {
         rb = GetComponent<Rigidbody>();
@@ -28,6 +30,12 @@ public class PlayerMovement : MonoBehaviour {
         // Assume character is not moving
         isMoving = false;
         float speed = 0f;
+
+        // Spawn new soccer ball and throw it forward
+        if(Input.GetKeyDown(KeyCode.V)) {
+            var tmpBall = Instantiate(ball, body.position, Quaternion.identity);
+            tmpBall.GetComponent<Rigidbody>().velocity += (this.transform.forward*10) + (new Vector3(0, 2, 0));
+        }
 
         // Exit Game
         if(Input.GetKey(KeyCode.Escape)) {
